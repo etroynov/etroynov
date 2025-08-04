@@ -8,7 +8,7 @@ Starting web development on the backend (Ruby with Ruby on Rails, NodeJS, Golang
 
 ## Languages that I know 📢
 
-![My Skills](https://skillicons.dev/icons?i=java,golang,rust,javascript,typescript,ruby,elixir,dart,wasm,html,css,bash,php,sass)<br/>
+![My Skills](https://skillicons.dev/icons?i=java,golang,rust,javascript,typescript,ruby,elixir,dart,wasm,html,css,bash,php,sass,less)<br/>
 
 ## Tools that I use 🛠
 ![My Tools](https://skillicons.dev/icons?i=npm,pnpm,maven,gradle,nodejs,deno,bun,redis,mongodb,mysql,postgres,sqlite,webpack,vscode,vim,neovim,linux,aws,terraform,tauri)<br/>
