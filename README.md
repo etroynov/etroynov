@@ -8,14 +8,14 @@ Starting web development on the backend (Ruby with Ruby on Rails, NodeJS, Golang
 
 ## Languages that I know 📢
 
-![My Skills](https://tech-icons.byteflag.dev/icons?i=java,golang,rust,javascript,typescript,ruby,elixir,dart,wasm,html,css,bash,php,sass,less)<br/>
+![My Skills](https://tech-icons.byteflag.dev/icons?i=java,golang,rust,javascript,typescript,ruby,elixir,dart,html,css,bash,php,sass,less)<br/>
 
 ## Tools that I use 🛠
-![My Tools](https://tech-icons.byteflag.dev/icons?i=maven,gradle,nodejs,deno,bun,redis,mongodb,mysql,postgres,sqlite,webpack,npm,pnpm,vscode,neovim,linux,aws,terraform,tauri)<br/>
+![My Tools](https://tech-icons.byteflag.dev/icons?i=maven,gradle,nodejs,deno,bun,redis,mongodb,mysql,postgres,sqlite,webpack,npm,pnpm,vscode,neovim,linux,aws,terraform,tauri,wasm)<br/>
 
 ## Frameworks that I use 🏗️
 
-![My Frameworks](https://tech-icons.byteflag.dev/icons?i=spring,nextjs,react,vue,nuxt,angular,flutter,tailwind,express,nest,sequelize,jest,vitest)<br/>
+![My Frameworks](https://tech-icons.byteflag.dev/icons?i=spring,nextjs,react,vue,nuxt,angular,flutter,rails,tailwind,express,nest,sequelize,jest,vitest)<br/>
 
 <!--
 **etroynov/etroynov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
