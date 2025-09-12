@@ -15,7 +15,7 @@ Starting web development on the backend (Ruby with Ruby on Rails, NodeJS, Golang
 
 ## Frameworks that I use 🏗️
 
-![My Frameworks](https://tech-icons.byteflag.dev/icons?i=spring,nextjs,react,vue,nuxt,angular,flutter,rails,tailwind,express,nest,sequelize,jest,vitest)<br/>
+![My Frameworks](https://tech-icons.byteflag.dev/icons?i=spring,nextjs,react,vue,nuxt,fastify,angular,flutter,rails,tailwind,express,nest,sequelize,jest,vitest)<br/>
 
 <!--
 **etroynov/etroynov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
