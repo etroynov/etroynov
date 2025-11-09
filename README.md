@@ -11,7 +11,7 @@ Starting web development on the backend (Ruby with Ruby on Rails, NodeJS, Golang
 ![My Skills](https://tech-icons.byteflag.dev/icons?i=java,kotlin,c,javascript,typescript,golang,rust,ruby,elixir,dart,html,css,bash,php,sass,less)<br/>
 
 ## Tools that I use 🛠
-![My Tools](https://tech-icons.byteflag.dev/icons?i=grafana,maven,gradle,nodejs,deno,bun,redis,mongodb,mysql,postgres,sqlite,webpack,vite,npm,yarn,pnpm,neovim,linux,aws,terraform,tauri,electron,wasm)<br/>
+![My Tools](https://tech-icons.byteflag.dev/icons?i=grafana,maven,gradle,nodejs,deno,bun,redis,mongodb,mysql,postgres,sqlite,webpack,vite,npm,yarn,pnpm,neovim,linux,aws,terraform,electron,wasm)<br/>
 
 ## Frameworks that I use 🏗️
 
